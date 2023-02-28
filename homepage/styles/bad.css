@@ -50,7 +50,7 @@
     background-color: yellow;
 }
 
-#description-area {
+#description {
     display: flex;
     flex-direction: column;
     flex: 3;
@@ -67,7 +67,7 @@
 }
 
 #facts-title {
-    margin-bottom: 20px;
+    margin-bottom: 2em;
 }
 
 #facts-list {
@@ -88,8 +88,7 @@
     flex-direction: column;
     justify-content: center;
     background-color: #fd67cb;
-    border-radius: 30px;
-    padding-left: 10px;
+    padding: 3em;
 }
 
 h3 {
