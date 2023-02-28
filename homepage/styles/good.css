@@ -31,8 +31,10 @@ body {
     width: 100%;
 }
 
-.simple-margin {
+.simple-well {
     margin: 10px;
+    background-color: bisque;
+    border-radius: 5px;
 }
 
 #banner {
