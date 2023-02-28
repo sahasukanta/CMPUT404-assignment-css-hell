@@ -36,9 +36,9 @@
     justify-content: center;
     align-items: center;
     width: 100vw;
-    height: 35vh;
-    background-color: #0d96dc;
-    box-shadow: inset 0 0 70px #008ad5;
+    height: 15vh;
+    background-color: #b07ebf;
+    box-shadow: inset 0 0 70px #c484df;
 }
 
 #title-name {
