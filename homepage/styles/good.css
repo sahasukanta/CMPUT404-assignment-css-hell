@@ -96,6 +96,9 @@
 
 img {
     border-radius: 5px;
+    max-width: 10em;
+    max-height: 10em;
+    margin: 1em;
 }
 
 
